@@ -1,0 +1,132 @@
+{
+  "name": "Kavish Andharia",
+  "github": "https://github.com/kandharia",
+  "experiences": [
+    {
+      "title": "LLM Bias & Fairness Research Project",
+      "role": "AI Researcher",
+      "bullets": [
+        "Conducted research on whether large language models made different hiring recommendations based on candidate identity and the language used to produce their evaluations, working with a 4-person team mentored by Gautam Kashyap, PhD student and researcher at Macquarie University",
+        "Tested whether multiple AI models evaluated the same job candidates differently when generating hiring assessments in different languages",
+        "Designed an evaluation pipeline to systematically compare model behavior across languages and candidate identities",
+        "Analyzed model responses to identify patterns of bias and determine whether differences were linked to candidate identity, evaluation language, or the AI model"
+      ]
+    },
+    {
+      "title": "Autonomous Driving with CARLA",
+      "role": "Machine Learning Project - Independent Developer",
+      "bullets": [
+        "Built a machine-learning system to teach a simulated vehicle to drive autonomously, using Python and PyTorch to turn camera images into driving decisions",
+        "Developed a neural network that predicted steering, acceleration, and braking in real time",
+        "Created training data across 21 map and weather environments and built computer-vision methods to prepare the data for training",
+        "Trained the model on a GPU and tested it in real time, replacing CARLA’s built-in autopilot with neural-network control"
+      ]
+    },
+    {
+      "title": "building-U Internship",
+      "role": "Software Engineering Intern and Mentor",
+      "bullets": [
+        "Developed software for a nonprofit organization with a global team of interns, contributing to websites, web applications, and APIs using React, TypeScript, JavaScript, Node.js, Python, HTML, and CSS",
+        "Led code reviews for learning modules, mentoring fellow interns by giving feedback on their code and guiding them in web development best practices",
+        "Built and improved software features while identifying bugs, fixing issues, and making code more readable and maintainable"
+      ]
+    },
+    {
+      "title": "CodeWizardsHQ Internship",
+      "role": "Software Engineering Intern",
+      "bullets": [
+        "Built a full-stack educational web application that helped students improve typing skills through personalized tests, adjustable difficulty, and progress tracking",
+        "Developed the backend using Flask and SQLite to manage user accounts, test history, words practiced, and performance data",
+        "Created interactive features including real-time typing feedback, timers, progress visualizations, and performance statistics using JavaScript, HTML/CSS, and Bootstrap"
+      ]
+    },
+    {
+      "title": "CRHS UIL Robotics",
+      "role": "Build Team Lead, Exhibit Team Lead, and Competitor",
+      "bullets": [
+        "Led the Build and Exhibit teams in designing, building, and presenting competition robots for UIL Robotics BEST and FIRST divisions",
+        "Built and tested competition robots to navigate fields, move objects, and complete precision tasks under strict time and performance constraints",
+        "Helped advance Cedar Ridge High School’s robotics program to its first-ever state-level competition after qualifying through the 2023 Capitol Area BEST competition and competing at the 2023 Texas BEST state competition",
+        "Reached out to 30+ companies, helping secure $5,000+ in sponsorship funding, and conducted middle-school outreach to promote STEM and robotics"
+      ]
+    },
+    {
+      "title": "Austin Swaminarayan Temple",
+      "role": "Educational Program Leader and Director",
+      "bullets": [
+        "Founded and led a youth music ensemble, teaching traditional instruments including tabla and manjira and coordinating student performances alongside the adult congregation",
+        "Led weekly educational sessions for children ages 4 - 16, teaching religious principles, stories, practices, and cultural traditions through interactive lessons, activities, and quizzes",
+        "Coordinated 20+ student volunteers to complete community service activities, teaching teamwork and encouraging youth participation",
+        "Organized youth service projects that brought students together to prepare meals and donate food to local charities, teaching teamwork, generosity, and community responsibility",
+        "Led outreach to local families, growing participation in the educational program from 2 to 20+ children and building a supportive community for Indian-American youth"
+      ]
+    },
+    {
+      "title": "Personal Website",
+      "role": "Web Developer",
+      "bullets": [
+        "Built a full-stack portfolio website to showcase my projects, experiences, and technical skills, using React and TypeScript for the frontend and Python/Flask for the backend",
+        "Designed a SQL database and REST API to store and dynamically display portfolio content without requiring changes to the website’s code",
+        "Created a responsive interface that adapted its layout and interactions for desktop and mobile devices"
+      ]
+    },
+    {
+      "title": "CRHS Mu Alpha Theta Tutor",
+      "role": "Tutor",
+      "bullets": [
+        "Tutored 20+ students in Precalculus, Algebra II, Geometry, and Algebra I through Mu Alpha Theta, providing individualized academic support",
+        "Created tailored explanations and practice problems to help students understand difficult concepts and strengthen problem-solving skills",
+        "Mentored peers through one-on-one and group tutoring, adapting my teaching approach to different learning needs"
+      ]
+    },
+    {
+      "title": "CRHS National Honor Society",
+      "role": "Volunteer",
+      "bullets": [
+        "Donated 150+ bottles of water, 50+ canned food items, and hygiene products, shoes, clothing, and jackets to support community members in need",
+        "Helped teachers prepare classrooms at the beginning of the school year and assembled emergency kits to support staff during the school year",
+        "Fundraised for school departments by selling items to students, helping provide additional resources for school programs",
+        "Volunteered at school events at Cedar Ridge and other schools"
+      ]
+    },
+    {
+      "title": "CRHS Environmental Club",
+      "role": "Volunteer",
+      "bullets": [
+        "Participated in campus cleanups at Cedar Ridge and other schools, helping maintain clean and welcoming spaces while promoting environmental responsibility",
+        "Helped plant 15+ bluebonnets, mulch campus gardens, and paint 10 recycling bins to improve the school environment and encourage responsible waste disposal",
+        "Participated in upcycling projects, including creating vision boards from old magazines to encourage creative reuse of materials"
+      ]
+    },
+    {
+      "title": "CRHS Chess Club",
+      "role": "Member",
+      "bullets": [
+        "Competed in regular chess matches and discussed strategies to improve decision-making and strategic thinking",
+        "Studied openings, tactics, and game positions to strengthen pattern recognition and problem-solving skills"
+      ]
+    },
+    {
+      "title": "CRHS Badminton",
+      "role": "Member",
+      "bullets": [
+        "Practiced badminton with teammates and participated in team activities, developing consistency, coordination, and discipline",
+        "Worked with teammates to improve technique and game strategy through regular practice and matches"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": "Python, C++, Java, TypeScript, JavaScript, HTML, CSS, SQL"
+    },
+    {
+      "category": "Frameworks / Libraries",
+      "items": "React, Flask, jQuery"
+    },
+    {
+      "category": "Software / Tools",
+      "items": "Visual Studio Code, Jupyter Notebook, GitHub, Git"
+    }
+  ]
+}
